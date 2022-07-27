@@ -1,1 +1,4 @@
-
+timezone: Europe/Rome
+baseurl: /pri
+permalink: pretty
+remote_theme: giovian/ui
