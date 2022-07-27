@@ -4,3 +4,5 @@ permalink: pretty
 remote_theme: giovian/ui
 
 sidebar: []
+footer: true
+header: true
