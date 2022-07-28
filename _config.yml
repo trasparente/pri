@@ -1,8 +1,7 @@
 timezone: Europe/Rome
 baseurl: /pri
 permalink: pretty
-remote_theme: giovian/ui
+remote_theme: giovian/ui@main
 
 sidebar: []
 footer: true
-header: true
