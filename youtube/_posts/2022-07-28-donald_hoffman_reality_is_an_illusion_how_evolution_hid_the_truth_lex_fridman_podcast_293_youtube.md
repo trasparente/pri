@@ -1,5 +1,6 @@
-title: Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293 - YouTube
-url: https://www.youtube.com/watch?v=reYdQYZ9Rj4
+---
+title: "Donald Hoffman: Reality is an Illusion - How Evolution Hid the Truth | Lex Fridman Podcast #293 - YouTube"
+source_url: https://www.youtube.com/watch?v=reYdQYZ9Rj4
 date: 2022-07-28 11:28:20 +2
 ---
 

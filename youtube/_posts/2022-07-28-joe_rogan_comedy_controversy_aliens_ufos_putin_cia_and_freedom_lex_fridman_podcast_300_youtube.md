@@ -1,5 +1,6 @@
-title: Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300 - YouTube
-url: https://www.youtube.com/watch?v=gk4tEO4jDUM
+---
+title: "Joe Rogan: Comedy, Controversy, Aliens, UFOs, Putin, CIA, and Freedom | Lex Fridman Podcast #300 - YouTube"
+source_url: https://www.youtube.com/watch?v=gk4tEO4jDUM
 date: 2022-07-28 11:30:56 +2
 ---
 

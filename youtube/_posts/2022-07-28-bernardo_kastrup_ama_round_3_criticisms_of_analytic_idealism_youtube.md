@@ -1,5 +1,6 @@
-title: Bernardo Kastrup AMA ROUND 3: Criticisms of Analytic Idealism - YouTube
-url: https://www.youtube.com/watch?v=4E6irMB2ANs
+---
+title: "Bernardo Kastrup AMA ROUND 3: Criticisms of Analytic Idealism - YouTube"
+source_url: https://www.youtube.com/watch?v=4E6irMB2ANs
 date: 2022-07-28 11:30:31 +2
 ---
 

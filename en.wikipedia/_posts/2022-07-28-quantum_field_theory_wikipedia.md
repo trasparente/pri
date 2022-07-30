@@ -1,5 +1,6 @@
+---
 title: Quantum field theory - Wikipedia
-url: https://en.wikipedia.org/wiki/Quantum_field_theory
+source_url: https://en.wikipedia.org/wiki/Quantum_field_theory
 date: 2022-07-28 11:34:08 +2
 ---
 

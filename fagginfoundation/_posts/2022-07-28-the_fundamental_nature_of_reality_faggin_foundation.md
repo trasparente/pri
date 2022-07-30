@@ -1,5 +1,6 @@
+---
 title: The fundamental nature of reality | Faggin Foundation
-url: http://www.fagginfoundation.org/articles/the-fundamental-nature-of-reality/
+source_url: http://www.fagginfoundation.org/articles/the-fundamental-nature-of-reality/
 date: 2022-07-28 11:25:28 +2
 ---
 

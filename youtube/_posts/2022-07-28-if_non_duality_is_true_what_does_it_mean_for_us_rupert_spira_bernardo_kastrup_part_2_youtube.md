@@ -1,5 +1,6 @@
+---
 title: If Non-Duality Is True, What Does It Mean for Us? | Rupert Spira & Bernardo Kastrup (Part 2) - YouTube
-url: https://www.youtube.com/watch?v=HNfDDeOvsBk
+source_url: https://www.youtube.com/watch?v=HNfDDeOvsBk
 date: 2022-07-28 11:29:28 +2
 ---
 

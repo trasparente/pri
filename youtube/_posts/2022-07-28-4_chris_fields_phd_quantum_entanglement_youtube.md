@@ -1,5 +1,6 @@
-title: #4 Chris Fields PHD - QUANTUM ENTANGLEMENT - YouTube
-url: https://www.youtube.com/watch?v=k2OhckbPSLg
+---
+title: "#4 Chris Fields PHD - QUANTUM ENTANGLEMENT - YouTube"
+source_url: https://www.youtube.com/watch?v=k2OhckbPSLg
 date: 2022-07-28 11:07:03 +2
 ---
 

@@ -1,5 +1,6 @@
+---
 title: The Nature of Consciousness | Faggin Foundation
-url: http://www.fagginfoundation.org/articles/the-nature-of-consciousness/
+source_url: http://www.fagginfoundation.org/articles/the-nature-of-consciousness/
 date: 2022-07-28 11:25:03 +2
 ---
 

@@ -1,5 +1,6 @@
+---
 title: What is Consciousness? | Faggin Foundation
-url: http://www.fagginfoundation.org/articles/what-is-consciousness/
+source_url: http://www.fagginfoundation.org/articles/what-is-consciousness/
 date: 2022-07-28 11:24:02 +2
 ---
 

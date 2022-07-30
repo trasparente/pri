@@ -1,5 +1,6 @@
+---
 title: The Living Universe - Part 1 of 2 - SAND
-url: https://www.scienceandnonduality.com/article/the-living-universe-part-1-of-2
+source_url: https://www.scienceandnonduality.com/article/the-living-universe-part-1-of-2
 date: 2022-07-27 20:00:59 +2
 ---
 

@@ -1,5 +1,6 @@
+---
 title: Conscious realism | Donald Hoffman | 2020 Work Conference - YouTube
-url: https://www.youtube.com/watch?v=oJ4S8tgj5sM
+source_url: https://www.youtube.com/watch?v=oJ4S8tgj5sM
 date: 2022-07-28 11:29:56 +2
 ---
 

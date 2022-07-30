@@ -1,10 +1,10 @@
-{% for coll in site.collections %}
-  {{ coll|inspect }}
-{% endfor %}
+# Categories
 
-{% for cat in site.categories %}
-### {{ cat[0] }}
-{% for item in cat %}
--  {{ item|inspect }}
-{% endfor %}
+{% for tag in site.categories %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}

@@ -1,5 +1,6 @@
+---
 title: Schrödinger and the conscious universe » IAI TV
-url: https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020
+source_url: https://iai.tv/articles/schroedinger-and-the-conscious-universe-auid-2192?_auid=2020
 date: 2022-07-28 11:21:58 +2
 ---
 
@@ -7,7 +8,7 @@ date: 2022-07-28 11:21:58 +2
 
 ## The total number of minds in the universe is one 
 
-> 25th July 2022, Robert Prentner | Donald Hoffman
+> 25th July 2022, Robert Prentner, Donald Hoffman
 
 - ATMAN = BRAHMAN (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world.
 

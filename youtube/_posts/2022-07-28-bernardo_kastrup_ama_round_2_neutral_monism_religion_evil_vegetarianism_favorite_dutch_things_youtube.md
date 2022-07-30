@@ -1,5 +1,6 @@
-title: Bernardo Kastrup AMA ROUND 2: Neutral Monism, Religion, Evil, Vegetarianism, Favorite Dutch Things - YouTube
-url: https://www.youtube.com/watch?v=O0-hzdleHqE
+---
+title: "Bernardo Kastrup AMA ROUND 2: Neutral Monism, Religion, Evil, Vegetarianism, Favorite Dutch Things - YouTube"
+source_url: https://www.youtube.com/watch?v=O0-hzdleHqE
 date: 2022-07-28 11:28:59 +2
 ---
 
