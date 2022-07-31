@@ -7,3 +7,11 @@ sidebar: []
 footer: true
 nav: true
 navigation: []
+
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      pagination: true
+      metadata: true

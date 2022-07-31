@@ -1,10 +1,10 @@
 # Categories
 
-{% for tag in site.categories %}
-  <h3>{{ tag[0] }}</h3>
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
   <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+    {% for doc in category[1] %}
+      <li><a href="{{ doc.url | absolute_url }}">{{ doc.title }}</a><br>{% include widgets/datetime.html datetime=doc.date replace=true %}</li>
     {% endfor %}
   </ul>
 {% endfor %}
