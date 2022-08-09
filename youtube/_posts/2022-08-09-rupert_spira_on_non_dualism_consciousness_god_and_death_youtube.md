@@ -1,3 +1,4 @@
+---
 title: Rupert Spira on Non-Dualism, Consciousness, God, and Death - YouTube
 source_url: https://www.youtube.com/watch?v=dWLd9y1MG4c
 image: https://i.ytimg.com/vi/dWLd9y1MG4c/maxresdefault.jpg
