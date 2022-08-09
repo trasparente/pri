@@ -9,3 +9,5 @@ tags: rupert spira
 # Rupert Spira on Non-Dualism, Consciousness, God, and Death - YouTube
 
 - 1:20:37 In order to say, I know that I am finite, that which knows that finitude, cannot itself be finite.
+- 1:28:24 That's what the ego (separate person) is: the appearance, and the corresponding feeling of being separate, temporary and finite.
+- I would suggest that was an illusion, that separation is an illusion. And is the cause of suffering on the inside, and conflict on the outside.
